@@ -1,1 +1,1 @@
-{"hour": 13, "minute": 30, "second": 0}
+{"hour": 13, "minute": 00, "second": 0}
